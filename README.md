@@ -2,6 +2,8 @@
 
 A fast, local viewer for your ChatGPT data export. **Zero installs beyond Python** — no pip, no npm, no dependencies. Just run one command and your browser opens automatically.
 
+![ChatGPT Archive Viewer](screenshot.png)
+
 ---
 
 ## Quick Start
